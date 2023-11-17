@@ -1,4 +1,4 @@
-const toggleDark = document.getElementById('toggle-dark-products')
+const toggleDark = document.getElementById('toggle-dark')
 const html = document.querySelector('html')
 const sol = document.getElementById('sol')
 const lua = document.getElementById('lua')
